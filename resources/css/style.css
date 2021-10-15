@@ -1,4 +1,10 @@
-/*esto es un comentario*/
+/*Esto es un comentario*/
 
+.modbloque {
+    border: 3px;
+    border-color: blue;
+    border-radius: 15px;
+    border-style: dashed;
+}
 
-/*esto es un selector universal*/
+.mr
